@@ -1,0 +1,23 @@
+{
+  "playerSpeed": 540,
+  "art": {
+    "backgroundColor": "#0d0f18",
+    "cyan": "#00f3ff",
+    "magenta": "#ff007f",
+    "green": "#39ff14",
+    "yellow": "#ffe600",
+    "glowIntensity": 1,
+    "particleCount": 42
+  },
+  "livesInitial": 5,
+  "rewardProbability": 0.62,
+  "fallingSpeedStart": 280,
+  "fallingSpeedMax": 700,
+  "speedPerPoint": 12,
+  "spawnIntervalStart": 0.95,
+  "spawnIntervalMin": 0.38,
+  "intervalDecreasePerPoint": 0.015,
+  "maxObstacleStreak": 3,
+  "soundVolume": 0.55,
+  "visualEffectsIntensity": 1
+}
