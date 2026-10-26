@@ -1,0 +1,64 @@
+// Asset Map (Read-Only)
+// Edit assets in the Media tab.
+// Use these IDs alongside lib to reference assets in your code:
+//
+// Example: lib.getAsset["player_sprite"]
+
+const assets = {
+  "plate_catcher": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/plate_catcher_6e1347a0-7c48-4590-9146-9d9e98a060f6.webp",
+    "type": "image",
+    "aspect_ratio": [
+      1298,
+      826
+    ]
+  },
+  "food_burger": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/food_burger_5e6a3f3b-016c-44a2-9c2e-ae148421bc80.webp",
+    "type": "image",
+    "aspect_ratio": [
+      724,
+      649
+    ]
+  },
+  "food_pizza": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/food_pizza_8e7385d9-a184-4849-8327-9eb8f9807562.webp",
+    "type": "image",
+    "aspect_ratio": [
+      723,
+      565
+    ]
+  },
+  "food_ice_cream": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/food_ice_cream_bbf300c9-80ad-4d70-8e6c-fdef6921555d.webp",
+    "type": "image",
+    "aspect_ratio": [
+      351,
+      647
+    ]
+  },
+  "obstacle_trash_can": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/obstacle_trash_can_4831b08d-9a1f-4cdd-8bba-44c8b754c42c.webp",
+    "type": "image",
+    "aspect_ratio": [
+      619,
+      759
+    ]
+  },
+  "obstacle_hot_coal": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/obstacle_hot_coal_b4564251-a130-4ef9-ad17-767396617ef1.webp",
+    "type": "image",
+    "aspect_ratio": [
+      732,
+      569
+    ]
+  },
+  "obstacle_flame": {
+    "url": "https://d2oir5eh8rty2e.cloudfront.net/assets/images/obstacle_flame_07a320dd-f1a7-4794-bad4-c99937d40e84.webp",
+    "type": "image",
+    "aspect_ratio": [
+      432,
+      620
+    ]
+  }
+};
